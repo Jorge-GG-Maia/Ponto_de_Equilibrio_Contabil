@@ -14,7 +14,6 @@ exemplos incluem o custo de materiais, suprimentos.
 
 **Margem de lucro esperada** = Insira aqui, em valores decimais, quantos % do valor final de venda você deseja que seja revertido em 
 lucro para empresa, exemplo: Se desejo uma margem de lucro de 30%, colocarei neste campo o valor 0.3 .
-9Us
 
 **Quantidade produzida** = Quantas unidades do produto correspondem aos custos que foram inseridos acima.
 
